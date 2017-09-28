@@ -10,7 +10,7 @@ The api for the turft.nl website
  - Initialize laravel project:
    - Copy `.env.example` to `.env`: `cp .env.example .env`
    - Run `php artisan key:generate`
-   - Run `php artisan app:name Some\\Namespace`
+   - Run `php artisan app:name App`
  - Run ide helper
    - Run `php artisan ide-helper:generate`
    - Run `php artisan ide-helper:meta` (for phpstorm)

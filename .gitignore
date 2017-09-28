@@ -2,6 +2,9 @@
 /.vagrant
 yarn-error.log
 
+.phpstorm.meta.php
+_ide_helper.php
+
 vendor/
 node_modules/
 npm-debug.log
